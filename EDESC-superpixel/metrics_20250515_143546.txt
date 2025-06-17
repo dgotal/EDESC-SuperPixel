@@ -1,0 +1,6 @@
+Broj superpixela: 500
+Broj odabranih bandova: 6
+SVM Accuracy (Full): 0.9726
+SVM Accuracy (Selected): 0.9795
+Best ACC: 0.9814
+Best NMI: 0.7681
